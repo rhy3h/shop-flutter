@@ -62,7 +62,7 @@ class CheckOurCard extends StatelessWidget {
           BoxShadow(
             offset: Offset(0, -15),
             blurRadius: 20,
-            color: Color(0xFFDADADA).withOpacity(0.5),
+            color: Color(0xFFDADADA).withOpacity(0.15),
           ),
         ],
       ),
